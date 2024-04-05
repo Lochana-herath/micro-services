@@ -1,0 +1,11 @@
+D:\Dulaksha\Business\Gwen\apps\apps\bin\Debug\apps.exe.config
+D:\Dulaksha\Business\Gwen\apps\apps\bin\Debug\apps.exe
+D:\Dulaksha\Business\Gwen\apps\apps\bin\Debug\apps.pdb
+D:\Dulaksha\Business\Gwen\apps\apps\obj\Debug\apps.csproj.AssemblyReference.cache
+D:\Dulaksha\Business\Gwen\apps\apps\obj\Debug\apps.Form1.resources
+D:\Dulaksha\Business\Gwen\apps\apps\obj\Debug\apps.Properties.Resources.resources
+D:\Dulaksha\Business\Gwen\apps\apps\obj\Debug\apps.csproj.GenerateResource.cache
+D:\Dulaksha\Business\Gwen\apps\apps\obj\Debug\apps.csproj.CoreCompileInputs.cache
+D:\Dulaksha\Business\Gwen\apps\apps\obj\Debug\apps.exe
+D:\Dulaksha\Business\Gwen\apps\apps\obj\Debug\apps.pdb
+D:\Dulaksha\Business\Gwen\apps\apps\obj\Debug\apps.Form2.resources
